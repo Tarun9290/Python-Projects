@@ -1,4 +1,4 @@
-fully functional reels page with php and xampp codes
+fully functional reels page with php and xampp codes  
 To create a fully functional reels page with PHP and XAMPP, you can follow these steps:
 
 Install XAMPP on your system and start the Apache and MySQL services.
