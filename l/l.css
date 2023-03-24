@@ -1,0 +1,87 @@
+/* CSS for Login Form */
+
+/* Add styles to the form container */
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #ddd;
+  }
+  
+  /* Add styles to the form labels */
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  /* Add styles to the form inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px 0;
+    border: none;
+    background: #eee;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Add styles to the form submit button */
+  button[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Add styles to the cancel button */
+  .cancelbtn {
+    background-color: #f44336;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    float: left;
+  }
+  
+  /* Add styles to the forgot password link */
+  .password a {
+    float: right;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  /* Add styles to the remember me checkbox */
+  .remember {
+    margin-bottom: 20px;
+  }
+  
+  /* Add styles to the logo image */
+  .logo {
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Add styles to the form header */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Add styles to the form header */
+  .header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
