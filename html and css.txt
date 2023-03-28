@@ -10,7 +10,7 @@ css:(selector,class,id)
             background-color:red;
             color:pink;
             border: dotted;mmm
-            
+            mmm
         }
     </style>
     </head>
