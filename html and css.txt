@@ -8,7 +8,7 @@ css:(selector,class,id)
         p#vinod{
             font-family: Times new roman;
             background-color:red;
-            color:pink;
+            color:pink;hhhhh
             border: dotted;
         }
     </style>
