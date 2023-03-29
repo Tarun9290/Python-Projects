@@ -9,7 +9,7 @@ css:(selector,class,id)
             font-family: Times new roman;
             background-color:red;
             color:pink;hhhhh
-            border: dotted;
+            border: dotted;jjjjjj
         }
     </style>
     </head>
